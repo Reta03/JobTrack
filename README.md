@@ -136,6 +136,21 @@ npm run dev
 
 Open the local URL displayed in your terminal, usually `http://localhost:5173`.
 
+
+## Screenshots
+
+### Dashboard
+![JobTrack Dashboard](screenshots/dashboard.png)
+
+### Add Application
+![Add Application Form](screenshots/add-application.png)
+
+### Applications List
+![Job Applications List](screenshots/applications-list.png)
+
+### Edit Application
+![Edit Application Form](screenshots/edit-application.png)
+
 ## What I Learned
 
 - Building a frontend with React.
