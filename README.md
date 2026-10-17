@@ -140,16 +140,16 @@ Open the local URL displayed in your terminal, usually `http://localhost:5173`.
 ## Screenshots
 
 ### Dashboard
-![JobTrack Dashboard](screenshots/dashboard.png)
+![JobTrack Dashboard](Screenshots/dashboard.png)
 
 ### Add Application
-![Add Application Form](screenshots/add-application.png)
+![Add Application Form](Screenshots/add-application.png)
 
 ### Applications List
-![Job Applications List](screenshots/applications-list.png)
+![Job Applications List](Screenshots/applications-list.png)
 
 ### Edit Application
-![Edit Application Form](screenshots/edit-application.png)
+![Edit Application Form](Screenshots/edit-application.png)
 
 ## What I Learned
 
